@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EarthNatchanon
-- 👀 I’m interested in Com-Arch
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Data struc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : Nnatchanon187@gmail.com
